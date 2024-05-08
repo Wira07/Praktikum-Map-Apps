@@ -33,8 +33,8 @@ Praktikum-Map-Apps adalah aplikasi Android sederhana yang menampilkan peta dan m
 
 ### Instalasi 🚀
 
-1. Unduh aplikasi dari Google Play Store.
-2. Buka aplikasi dan ikuti petunjuk di layar.
+1. Unduh aplikasi Android Studio Terbaru.
+2. Buka aplikasi dan ikuti petunjuknya.
 
 ---
 
